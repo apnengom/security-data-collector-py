@@ -18,7 +18,7 @@ The system follows a strict Separation of Concerns (SoC), divided into 6 distinc
 
 * Database: Structured storage in SQLite with referential integrity.
 
-* Analysis: Forensics and reporting via sqlite3.
+* Analysis: Forensics and reporting via pyspark.
 
 * Key Technical Decisions:
 Mediator Pattern: Implemented in AppController to manage navigation between Login, Register, and Dashboard without circular dependencies.
