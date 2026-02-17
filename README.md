@@ -55,3 +55,9 @@ Python 3.12+
 * `backup.py`: Database recovery tool. It generates a full SQL dump of the operational database to ensure data persistence and portability.
 
 Java 8+ (Required for PySpark analysis)
+# Estado del Proyecto:
+- Captura local: Implementada
+- Arquitectura de capas: Implementada
+- Security Engine: En desarrollo
+- Analytics PySpark: Planeado (fase cloud)
+- Dashboard avanzado: Pendiente
