@@ -1,4 +1,4 @@
-###Security Data Collector & Auth System
+##Security Data Collector & Auth System
 #🛡️ Project Overview
 This project is a Modular Security Framework designed for the secure capture, labeling, and structuring of security event datasets. Unlike a simple logger, this system implements an active defense layer (WAF/IDS) at the entry point and prepares data for high-level forensic analysis using Big Data tools.
 
