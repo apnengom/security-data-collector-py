@@ -56,8 +56,8 @@ Python 3.12+
 
 Java 8+ (Required for PySpark analysis)
 # Project Status:
-Local Capture: Implemented
-Layered Architecture: Implemented
-Security Engine: In Development
-PySpark Analytics: Planned (Cloud Phase)
-Advanced Dashboard: Pending
+* Local Capture: Implemented
+* Layered Architecture: Implemented
+* Security Engine: In Development
+* PySpark Analytics: Planned (Cloud Phase)
+* Advanced Dashboard: Pending
