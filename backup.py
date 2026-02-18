@@ -1,5 +1,5 @@
 import sqlite3
-from database.db import DB_PATH # Aprovechamos tu ruta blindada
+from database.db import DB_PATH # Aprovechamos la ruta blindada
 
 def hacer_backup():
     try:
@@ -13,4 +13,5 @@ def hacer_backup():
         print(f"[-] Error: {e}")
 
 if __name__ == "__main__":
+
     hacer_backup()
