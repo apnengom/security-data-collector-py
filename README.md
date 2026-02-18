@@ -10,7 +10,7 @@ The system follows a strict Separation of Concerns (SoC), divided into 6 distinc
 
 * Interfaces (GUI): Decoupled views using the Mediator Pattern.
 
-* Connecting via Flask, thus separating the authentication interface and the server by delegating tasks
+* Connecting via Flask, thus separating the interface, authentication and server by delegating tasks
 
 * API/Connection: Flask-based REST API.
 
