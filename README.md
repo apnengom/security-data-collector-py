@@ -25,7 +25,7 @@ Mediator Pattern: Implemented in AppController to manage navigation between Logi
 
 * Memory Resilience: Advanced cleanup using after_cancel loops in Tkinter to prevent memory leaks and zombie processes in low-RAM devices (Samsung A207).
 
-* Async Networking: Multi-threaded client requests to ensure a non-blocking UI during server synchronization.
+* Async Networking: Multi-threaded client requests to ensure a non-blocking UI during server synchronization (threading + queue).
 
 ## 🔒 Security Features
 * This system acts as a First Line of Defense:
@@ -53,6 +53,7 @@ Python 3.12+
 ## 💾 Maintenance & Utility Scripts
 * `requirements.txt`: Managed dependency list for environment reproducibility.
 * `backup.py`: Database recovery tool. It generates a full SQL dump of the operational database to ensure data persistence and portability.
+* The database is created if it does not exist in the database folder.
 
 Java 8+ (Required for PySpark analysis)
 # Project Status:
