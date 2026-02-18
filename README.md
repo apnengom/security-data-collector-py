@@ -58,7 +58,7 @@ Python 3.12+
 * The database is created if it does not exist in the database folder.
 
 Java 8+ (Required for PySpark analysis)
-# Project Status:
+# 🏗 Project Status:
 * Local Capture: Implemented
 * Layered Architecture: Implemented
 * Security Engine: In Development
